@@ -1,0 +1,8 @@
+{
+  "name": "Ôn Thi YHGD",
+  "short_name": "Ôn Thi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a085"
+}
